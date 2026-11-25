@@ -1,0 +1,7 @@
+.env
+guard.db
+*.session
+*.session-journal
+__pycache__/
+*.pyc
+qr_login.png
